@@ -1,0 +1,2001 @@
+text,label
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT COUNT(*) FROM users;,sql
+Congratulations! You've won a free vacation.,non-sql
+INSERT INTO products (name) VALUES ('john@example.com');,sql
+SELECT price FROM products ORDER BY department_id DESC;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+INSERT INTO employees (email) VALUES ('1');,sql
+"In a galaxy far, far away...",non-sql
+"Once upon a time, there was a brave knight.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT * FROM users;,sql
+"INSERT INTO departments (id, email) VALUES ('john@example.com', '1');",sql
+The weather today is sunny with a chance of rain.,non-sql
+Baking the perfect bread takes practice.,non-sql
+SELECT name FROM categories ORDER BY department_id DESC;,sql
+"SELECT email, price FROM departments WHERE department_id = '1';",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM orders WHERE name = '1';,sql
+"SELECT email, id FROM employees WHERE id = '1';",sql
+"INSERT INTO employees (created_at, department_id, id) VALUES ('John Doe', '1', '99.99');",sql
+"SELECT employees.name, products.department_id FROM employees JOIN products ON employees.name = products.department_id;",sql
+"In a galaxy far, far away...",non-sql
+INSERT INTO departments (id) VALUES ('99.99');,sql
+Upcoming events include a concert and a festival.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+DELETE FROM products WHERE id = '99.99';,sql
+UPDATE users SET id = '3' WHERE id = '1';,sql
+INSERT INTO employees (price) VALUES ('John Doe');,sql
+SELECT email FROM employees ORDER BY name DESC;,sql
+SELECT COUNT(*) FROM employees;,sql
+DELETE FROM users WHERE created_at = 'john@example.com';,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT * FROM categories;,sql
+DELETE FROM categories WHERE price = 'John Doe';,sql
+Error 404: Page not found.,non-sql
+Access denied. Contact your administrator.,non-sql
+SELECT COUNT(*) FROM departments;,sql
+"INSERT INTO users (created_at, price, department_id) VALUES ('1', 'John Doe', '3');",sql
+Follow the yellow brick road.,non-sql
+Follow the yellow brick road.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+All that glitters is not gold.,non-sql
+All that glitters is not gold.,non-sql
+Access denied. Contact your administrator.,non-sql
+SELECT COUNT(*) FROM products;,sql
+"In a galaxy far, far away...",non-sql
+Upcoming events include a concert and a festival.,non-sql
+Follow the yellow brick road.,non-sql
+UPDATE orders SET price = '3' WHERE price = 'HR';,sql
+"In a galaxy far, far away...",non-sql
+SELECT * FROM users;,sql
+"Once upon a time, there was a brave knight.",non-sql
+"SELECT department_id, price FROM orders ORDER BY created_at DESC;",sql
+"INSERT INTO users (department_id, id) VALUES ('John Doe', '99.99');",sql
+DELETE FROM products WHERE price = '2024-01-01';,sql
+"INSERT INTO orders (id, department_id, price) VALUES ('John Doe', '99.99', 'john@example.com');",sql
+Artificial intelligence is transforming industries.,non-sql
+INSERT INTO orders (department_id) VALUES ('99.99');,sql
+All that glitters is not gold.,non-sql
+"SELECT created_at, department_id FROM products WHERE id = '3';",sql
+Welcome to the world of tomorrow!,non-sql
+"In a galaxy far, far away...",non-sql
+SELECT price FROM categories WHERE name = 'John Doe';,sql
+"SELECT created_at, department_id, id FROM users WHERE name = 'john@example.com';",sql
+Baking the perfect bread takes practice.,non-sql
+Learning Python is fun and rewarding.,non-sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM employees;,sql
+SELECT COUNT(*) FROM departments;,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+"SELECT price, name FROM users WHERE name = 'john@example.com';",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"SELECT orders.id, employees.name FROM orders JOIN employees ON orders.id = employees.name;",sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT users.email, departments.created_at FROM users JOIN departments ON users.email = departments.created_at;",sql
+"SELECT products.department_id, users.created_at FROM products JOIN users ON products.department_id = users.created_at;",sql
+"Buy one, get one free! Limited time offer.",non-sql
+UPDATE categories SET price = '99.99' WHERE price = 'Admin';,sql
+"SELECT employees.price, categories.name FROM employees JOIN categories ON employees.price = categories.name;",sql
+DELETE FROM categories WHERE email = '2024-01-01';,sql
+Artificial intelligence is transforming industries.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT employees.created_at, orders.id FROM employees JOIN orders ON employees.created_at = orders.id;",sql
+"SELECT price, name, department_id FROM departments WHERE name = '99.99';",sql
+Call me Ishmael.,non-sql
+DELETE FROM users WHERE department_id = 'john@example.com';,sql
+Upcoming events include a concert and a festival.,non-sql
+"SELECT email, created_at FROM users WHERE name = 'john@example.com';",sql
+"In a galaxy far, far away...",non-sql
+Learning Python is fun and rewarding.,non-sql
+Baking the perfect bread takes practice.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"INSERT INTO users (price, department_id) VALUES ('John Doe', 'John Doe');",sql
+"SELECT price, email FROM orders WHERE id = '3';",sql
+"SELECT orders.email, users.email FROM orders JOIN users ON orders.email = users.email;",sql
+SELECT * FROM categories;,sql
+Error 404: Page not found.,non-sql
+UPDATE users SET email = 'John Doe' WHERE email = 'Active';,sql
+The weather today is sunny with a chance of rain.,non-sql
+UPDATE products SET price = 'John Doe' WHERE price = 'HR';,sql
+"To be, or not to be, that is the question.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"INSERT INTO orders (price, name, created_at) VALUES ('3', '99.99', 'John Doe');",sql
+DELETE FROM products WHERE id = '99.99';,sql
+Congratulations! You've won a free vacation.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"In a galaxy far, far away...",non-sql
+Learning Python is fun and rewarding.,non-sql
+SELECT COUNT(*) FROM departments;,sql
+"SELECT name, id FROM orders WHERE email = 'john@example.com';",sql
+"SELECT price, id, name FROM orders ORDER BY email DESC;",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT * FROM categories;,sql
+SELECT * FROM departments;,sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM products;,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+UPDATE categories SET department_id = 'John Doe' WHERE department_id = 'Pending';,sql
+DELETE FROM categories WHERE department_id = '2024-01-01';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM categories WHERE department_id = '99.99';,sql
+Baking the perfect bread takes practice.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Please reboot your system and try again.,non-sql
+SELECT email FROM employees ORDER BY department_id DESC;,sql
+UPDATE users SET email = '1' WHERE email = 'Completed';,sql
+"Buy one, get one free! Limited time offer.",non-sql
+Please reboot your system and try again.,non-sql
+SELECT * FROM departments;,sql
+"Once upon a time, there was a brave knight.",non-sql
+"SELECT created_at, id FROM products WHERE email = '2024-01-01';",sql
+Call me Ishmael.,non-sql
+"SELECT department_id, id, email FROM departments WHERE id = 'john@example.com';",sql
+UPDATE employees SET price = '1' WHERE price = '1';,sql
+"SELECT department_id, name FROM employees ORDER BY price DESC;",sql
+SELECT COUNT(*) FROM departments;,sql
+Error 404: Page not found.,non-sql
+INSERT INTO employees (created_at) VALUES ('1');,sql
+SELECT created_at FROM departments ORDER BY price DESC;,sql
+"SELECT categories.id, employees.department_id FROM categories JOIN employees ON categories.id = employees.department_id;",sql
+"SELECT email, id, department_id FROM departments ORDER BY id DESC;",sql
+SELECT COUNT(*) FROM categories;,sql
+"In a galaxy far, far away...",non-sql
+UPDATE categories SET department_id = 'John Doe' WHERE department_id = 'Pending';,sql
+The weather today is sunny with a chance of rain.,non-sql
+"SELECT name, created_at FROM categories WHERE department_id = '2024-01-01';",sql
+Healthy eating leads to a healthy life.,non-sql
+All that glitters is not gold.,non-sql
+UPDATE orders SET email = '2024-01-01' WHERE email = '1';,sql
+"To be, or not to be, that is the question.",non-sql
+SELECT id FROM employees ORDER BY name DESC;,sql
+SELECT * FROM products;,sql
+Upcoming events include a concert and a festival.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+SELECT * FROM products;,sql
+"INSERT INTO departments (price, name) VALUES ('2024-01-01', 'John Doe');",sql
+Baking the perfect bread takes practice.,non-sql
+UPDATE products SET department_id = 'John Doe' WHERE department_id = 'Pending';,sql
+Access denied. Contact your administrator.,non-sql
+All that glitters is not gold.,non-sql
+DELETE FROM orders WHERE id = '2024-01-01';,sql
+SELECT created_at FROM products ORDER BY created_at DESC;,sql
+Upcoming events include a concert and a festival.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"INSERT INTO products (name, department_id) VALUES ('2024-01-01', '99.99');",sql
+DELETE FROM departments WHERE department_id = 'John Doe';,sql
+"INSERT INTO products (name, id, price) VALUES ('3', 'John Doe', '3');",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Please reboot your system and try again.,non-sql
+"SELECT users.id, employees.email FROM users JOIN employees ON users.id = employees.email;",sql
+DELETE FROM users WHERE department_id = '2024-01-01';,sql
+"SELECT created_at, price FROM products ORDER BY price DESC;",sql
+SELECT * FROM employees;,sql
+"INSERT INTO products (name, department_id, email) VALUES ('1', 'john@example.com', '2024-01-01');",sql
+SELECT * FROM categories;,sql
+"In a galaxy far, far away...",non-sql
+Access denied. Contact your administrator.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+Follow the yellow brick road.,non-sql
+DELETE FROM employees WHERE id = 'John Doe';,sql
+INSERT INTO categories (id) VALUES ('2024-01-01');,sql
+SELECT COUNT(*) FROM users;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+Artificial intelligence is transforming industries.,non-sql
+"SELECT email, price, created_at FROM categories ORDER BY price DESC;",sql
+SELECT COUNT(*) FROM products;,sql
+Baking the perfect bread takes practice.,non-sql
+SELECT id FROM users WHERE created_at = 'john@example.com';,sql
+Follow the yellow brick road.,non-sql
+"To be, or not to be, that is the question.",non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT * FROM departments;,sql
+DELETE FROM categories WHERE price = '99.99';,sql
+"SELECT orders.price, users.department_id FROM orders JOIN users ON orders.price = users.department_id;",sql
+Healthy eating leads to a healthy life.,non-sql
+DELETE FROM categories WHERE created_at = 'john@example.com';,sql
+"SELECT price, created_at FROM products WHERE id = 'John Doe';",sql
+UPDATE departments SET created_at = 'john@example.com' WHERE created_at = 'Admin';,sql
+"SELECT categories.email, orders.id FROM categories JOIN orders ON categories.email = orders.id;",sql
+UPDATE employees SET id = '2024-01-01' WHERE id = 'Completed';,sql
+Welcome to the world of tomorrow!,non-sql
+All that glitters is not gold.,non-sql
+SELECT * FROM departments;,sql
+DELETE FROM products WHERE price = '1';,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"SELECT categories.price, products.name FROM categories JOIN products ON categories.price = products.name;",sql
+Congratulations! You've won a free vacation.,non-sql
+"To be, or not to be, that is the question.",non-sql
+Call me Ishmael.,non-sql
+Access denied. Contact your administrator.,non-sql
+"In a galaxy far, far away...",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+INSERT INTO products (id) VALUES ('99.99');,sql
+The weather today is sunny with a chance of rain.,non-sql
+UPDATE products SET price = 'John Doe' WHERE price = 'Admin';,sql
+UPDATE products SET name = '99.99' WHERE name = 'Admin';,sql
+Learning Python is fun and rewarding.,non-sql
+Access denied. Contact your administrator.,non-sql
+SELECT * FROM departments;,sql
+All that glitters is not gold.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT * FROM users;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT price, created_at, id FROM orders ORDER BY department_id DESC;",sql
+Error 404: Page not found.,non-sql
+SELECT COUNT(*) FROM orders;,sql
+"Once upon a time, there was a brave knight.",non-sql
+Learning Python is fun and rewarding.,non-sql
+INSERT INTO products (created_at) VALUES ('1');,sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT price, created_at FROM categories WHERE price = '3';",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Error 404: Page not found.,non-sql
+Follow the yellow brick road.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+SELECT * FROM employees;,sql
+SELECT department_id FROM users ORDER BY department_id DESC;,sql
+SELECT id FROM departments WHERE department_id = '99.99';,sql
+All that glitters is not gold.,non-sql
+SELECT * FROM users;,sql
+"SELECT employees.id, orders.department_id FROM employees JOIN orders ON employees.id = orders.department_id;",sql
+All that glitters is not gold.,non-sql
+SELECT COUNT(*) FROM users;,sql
+"INSERT INTO categories (name, created_at) VALUES ('2024-01-01', 'John Doe');",sql
+SELECT * FROM users;,sql
+Error 404: Page not found.,non-sql
+SELECT id FROM orders ORDER BY id DESC;,sql
+INSERT INTO employees (created_at) VALUES ('3');,sql
+Healthy eating leads to a healthy life.,non-sql
+All that glitters is not gold.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+SELECT COUNT(*) FROM orders;,sql
+Artificial intelligence is transforming industries.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+UPDATE orders SET email = '99.99' WHERE email = 'Completed';,sql
+SELECT department_id FROM employees ORDER BY price DESC;,sql
+DELETE FROM categories WHERE price = '2024-01-01';,sql
+Healthy eating leads to a healthy life.,non-sql
+UPDATE orders SET name = 'John Doe' WHERE name = 'Active';,sql
+Access denied. Contact your administrator.,non-sql
+"SELECT name, id, email FROM categories ORDER BY price DESC;",sql
+UPDATE orders SET department_id = '3' WHERE department_id = 'Active';,sql
+Access denied. Contact your administrator.,non-sql
+"INSERT INTO employees (id, name) VALUES ('john@example.com', '3');",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM departments;,sql
+DELETE FROM products WHERE department_id = '2024-01-01';,sql
+"SELECT department_id, name, price FROM employees ORDER BY email DESC;",sql
+Upcoming events include a concert and a festival.,non-sql
+Access denied. Contact your administrator.,non-sql
+Access denied. Contact your administrator.,non-sql
+Baking the perfect bread takes practice.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT department_id FROM departments WHERE name = '2024-01-01';,sql
+Artificial intelligence is transforming industries.,non-sql
+"SELECT employees.name, users.created_at FROM employees JOIN users ON employees.name = users.created_at;",sql
+Call me Ishmael.,non-sql
+"SELECT created_at, price, name FROM categories WHERE department_id = 'John Doe';",sql
+SELECT * FROM employees;,sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM categories;,sql
+"SELECT employees.id, orders.name FROM employees JOIN orders ON employees.id = orders.name;",sql
+Welcome to the world of tomorrow!,non-sql
+SELECT email FROM employees ORDER BY department_id DESC;,sql
+"INSERT INTO categories (department_id, created_at, email) VALUES ('John Doe', '1', 'John Doe');",sql
+SELECT COUNT(*) FROM users;,sql
+Learning Python is fun and rewarding.,non-sql
+UPDATE products SET price = '3' WHERE price = 'Active';,sql
+SELECT COUNT(*) FROM categories;,sql
+"SELECT name, price, created_at FROM products WHERE email = '1';",sql
+INSERT INTO categories (created_at) VALUES ('john@example.com');,sql
+Access denied. Contact your administrator.,non-sql
+SELECT * FROM employees;,sql
+SELECT * FROM employees;,sql
+All that glitters is not gold.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"INSERT INTO departments (name, email) VALUES ('3', 'John Doe');",sql
+DELETE FROM products WHERE department_id = '99.99';,sql
+"SELECT id, created_at FROM categories ORDER BY email DESC;",sql
+Healthy eating leads to a healthy life.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Error 404: Page not found.,non-sql
+SELECT email FROM categories WHERE email = 'John Doe';,sql
+"SELECT email, id, department_id FROM employees ORDER BY email DESC;",sql
+Error 404: Page not found.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+Error 404: Page not found.,non-sql
+UPDATE orders SET price = '1' WHERE price = 'Active';,sql
+"INSERT INTO categories (id, created_at, email) VALUES ('john@example.com', 'John Doe', 'john@example.com');",sql
+"SELECT created_at, email, department_id FROM users ORDER BY id DESC;",sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT users.id, employees.email FROM users JOIN employees ON users.id = employees.email;",sql
+DELETE FROM users WHERE id = '99.99';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"In a galaxy far, far away...",non-sql
+UPDATE products SET price = '1' WHERE price = 'Active';,sql
+INSERT INTO orders (id) VALUES ('99.99');,sql
+SELECT * FROM departments;,sql
+UPDATE products SET created_at = 'john@example.com' WHERE created_at = 'HR';,sql
+Error 404: Page not found.,non-sql
+"SELECT employees.name, users.name FROM employees JOIN users ON employees.name = users.name;",sql
+"SELECT department_id, id, created_at FROM employees WHERE id = '2024-01-01';",sql
+SELECT COUNT(*) FROM categories;,sql
+"SELECT categories.name, products.price FROM categories JOIN products ON categories.name = products.price;",sql
+UPDATE categories SET created_at = '2024-01-01' WHERE created_at = 'Active';,sql
+SELECT COUNT(*) FROM products;,sql
+SELECT email FROM categories WHERE price = 'john@example.com';,sql
+SELECT COUNT(*) FROM orders;,sql
+UPDATE categories SET id = '2024-01-01' WHERE id = 'Pending';,sql
+"SELECT price, created_at FROM departments WHERE department_id = '3';",sql
+Access denied. Contact your administrator.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+UPDATE employees SET department_id = '3' WHERE department_id = 'HR';,sql
+SELECT COUNT(*) FROM departments;,sql
+DELETE FROM departments WHERE price = 'john@example.com';,sql
+Artificial intelligence is transforming industries.,non-sql
+DELETE FROM users WHERE price = '1';,sql
+Follow the yellow brick road.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+INSERT INTO users (email) VALUES ('3');,sql
+"SELECT department_id, created_at, email FROM categories WHERE name = 'John Doe';",sql
+UPDATE departments SET created_at = '3' WHERE created_at = 'Pending';,sql
+All that glitters is not gold.,non-sql
+"SELECT id, department_id FROM employees WHERE department_id = 'John Doe';",sql
+"INSERT INTO employees (email, id, price) VALUES ('1', '99.99', '2024-01-01');",sql
+Artificial intelligence is transforming industries.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+DELETE FROM products WHERE price = 'John Doe';,sql
+UPDATE orders SET email = 'John Doe' WHERE email = '1';,sql
+SELECT created_at FROM categories WHERE name = '99.99';,sql
+Error 404: Page not found.,non-sql
+SELECT * FROM employees;,sql
+SELECT COUNT(*) FROM departments;,sql
+"SELECT email, price FROM orders ORDER BY department_id DESC;",sql
+Access denied. Contact your administrator.,non-sql
+SELECT * FROM products;,sql
+"SELECT users.price, users.email FROM users JOIN users ON users.price = users.email;",sql
+"SELECT email, id FROM employees ORDER BY email DESC;",sql
+Healthy eating leads to a healthy life.,non-sql
+SELECT id FROM orders WHERE name = '3';,sql
+UPDATE employees SET price = '1' WHERE price = 'Active';,sql
+SELECT * FROM users;,sql
+SELECT COUNT(*) FROM departments;,sql
+DELETE FROM categories WHERE name = '1';,sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT categories.name, categories.department_id FROM categories JOIN categories ON categories.name = categories.department_id;",sql
+"SELECT products.department_id, products.email FROM products JOIN products ON products.department_id = products.email;",sql
+Follow the yellow brick road.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"SELECT price, created_at FROM departments WHERE name = '2024-01-01';",sql
+SELECT * FROM departments;,sql
+SELECT * FROM categories;,sql
+"In a galaxy far, far away...",non-sql
+SELECT COUNT(*) FROM categories;,sql
+SELECT * FROM users;,sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT users.created_at, users.department_id FROM users JOIN users ON users.created_at = users.department_id;",sql
+All that glitters is not gold.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT users.id, departments.created_at FROM users JOIN departments ON users.id = departments.created_at;",sql
+INSERT INTO products (email) VALUES ('1');,sql
+SELECT COUNT(*) FROM users;,sql
+SELECT * FROM employees;,sql
+SELECT COUNT(*) FROM categories;,sql
+Congratulations! You've won a free vacation.,non-sql
+All that glitters is not gold.,non-sql
+DELETE FROM employees WHERE created_at = 'John Doe';,sql
+SELECT id FROM orders WHERE price = '99.99';,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Baking the perfect bread takes practice.,non-sql
+INSERT INTO categories (email) VALUES ('2024-01-01');,sql
+SELECT * FROM employees;,sql
+Please reboot your system and try again.,non-sql
+"SELECT email, created_at FROM products WHERE id = '99.99';",sql
+Welcome to the world of tomorrow!,non-sql
+DELETE FROM employees WHERE name = '3';,sql
+Error 404: Page not found.,non-sql
+SELECT COUNT(*) FROM users;,sql
+Healthy eating leads to a healthy life.,non-sql
+Learning Python is fun and rewarding.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT categories.created_at, users.price FROM categories JOIN users ON categories.created_at = users.price;",sql
+Baking the perfect bread takes practice.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"SELECT price, created_at FROM categories ORDER BY name DESC;",sql
+Follow the yellow brick road.,non-sql
+"To be, or not to be, that is the question.",non-sql
+Please reboot your system and try again.,non-sql
+"SELECT name, email FROM categories ORDER BY email DESC;",sql
+Artificial intelligence is transforming industries.,non-sql
+"SELECT users.created_at, categories.email FROM users JOIN categories ON users.created_at = categories.email;",sql
+"SELECT email, id FROM users WHERE department_id = '2024-01-01';",sql
+UPDATE departments SET created_at = 'john@example.com' WHERE created_at = 'Admin';,sql
+DELETE FROM orders WHERE email = '99.99';,sql
+"SELECT products.department_id, categories.department_id FROM products JOIN categories ON products.department_id = categories.department_id;",sql
+UPDATE employees SET department_id = '99.99' WHERE department_id = '1';,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+Baking the perfect bread takes practice.,non-sql
+UPDATE products SET created_at = '3' WHERE created_at = 'Admin';,sql
+"In a galaxy far, far away...",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT products.email, departments.id FROM products JOIN departments ON products.email = departments.id;",sql
+Error 404: Page not found.,non-sql
+Follow the yellow brick road.,non-sql
+SELECT id FROM categories WHERE email = '1';,sql
+Learning Python is fun and rewarding.,non-sql
+SELECT name FROM users WHERE id = '3';,sql
+"SELECT products.department_id, orders.id FROM products JOIN orders ON products.department_id = orders.id;",sql
+Baking the perfect bread takes practice.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+DELETE FROM users WHERE created_at = 'John Doe';,sql
+Baking the perfect bread takes practice.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+Call me Ishmael.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT categories.name, orders.price FROM categories JOIN orders ON categories.name = orders.price;",sql
+SELECT created_at FROM orders ORDER BY price DESC;,sql
+SELECT * FROM orders;,sql
+All that glitters is not gold.,non-sql
+Access denied. Contact your administrator.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"To be, or not to be, that is the question.",non-sql
+Call me Ishmael.,non-sql
+"SELECT categories.price, users.price FROM categories JOIN users ON categories.price = users.price;",sql
+SELECT COUNT(*) FROM users;,sql
+UPDATE orders SET price = '99.99' WHERE price = 'Admin';,sql
+Call me Ishmael.,non-sql
+UPDATE departments SET name = '99.99' WHERE name = 'Completed';,sql
+SELECT name FROM products ORDER BY name DESC;,sql
+"SELECT price, name, department_id FROM employees ORDER BY created_at DESC;",sql
+"To be, or not to be, that is the question.",non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT categories.id, employees.price FROM categories JOIN employees ON categories.id = employees.price;",sql
+"SELECT users.email, users.price FROM users JOIN users ON users.email = users.price;",sql
+"Buy one, get one free! Limited time offer.",non-sql
+Error 404: Page not found.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+DELETE FROM categories WHERE id = '99.99';,sql
+DELETE FROM users WHERE email = '3';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM categories WHERE department_id = '3';,sql
+"INSERT INTO orders (department_id, name) VALUES ('john@example.com', '1');",sql
+DELETE FROM products WHERE name = '1';,sql
+SELECT COUNT(*) FROM products;,sql
+SELECT COUNT(*) FROM users;,sql
+SELECT COUNT(*) FROM orders;,sql
+UPDATE categories SET email = 'john@example.com' WHERE email = 'Completed';,sql
+All that glitters is not gold.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT * FROM employees;,sql
+"SELECT departments.id, users.created_at FROM departments JOIN users ON departments.id = users.created_at;",sql
+SELECT * FROM categories;,sql
+"Once upon a time, there was a brave knight.",non-sql
+DELETE FROM users WHERE price = '3';,sql
+"INSERT INTO employees (department_id, id) VALUES ('99.99', '3');",sql
+SELECT * FROM departments;,sql
+All that glitters is not gold.,non-sql
+"SELECT users.name, employees.price FROM users JOIN employees ON users.name = employees.price;",sql
+Learning Python is fun and rewarding.,non-sql
+"INSERT INTO categories (department_id, price, id) VALUES ('3', '99.99', '3');",sql
+Call me Ishmael.,non-sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+All that glitters is not gold.,non-sql
+All that glitters is not gold.,non-sql
+Please reboot your system and try again.,non-sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM categories;,sql
+"SELECT orders.email, products.name FROM orders JOIN products ON orders.email = products.name;",sql
+"SELECT products.created_at, products.created_at FROM products JOIN products ON products.created_at = products.created_at;",sql
+"SELECT products.id, departments.price FROM products JOIN departments ON products.id = departments.price;",sql
+"INSERT INTO products (price, id, email) VALUES ('99.99', '1', '2024-01-01');",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Access denied. Contact your administrator.,non-sql
+"SELECT departments.department_id, users.id FROM departments JOIN users ON departments.department_id = users.id;",sql
+Baking the perfect bread takes practice.,non-sql
+SELECT name FROM orders WHERE created_at = '1';,sql
+SELECT * FROM orders;,sql
+Welcome to the world of tomorrow!,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+UPDATE categories SET price = 'john@example.com' WHERE price = 'Completed';,sql
+"Once upon a time, there was a brave knight.",non-sql
+INSERT INTO users (email) VALUES ('99.99');,sql
+SELECT department_id FROM categories WHERE email = '2024-01-01';,sql
+DELETE FROM products WHERE price = '2024-01-01';,sql
+Artificial intelligence is transforming industries.,non-sql
+SELECT email FROM users WHERE department_id = '3';,sql
+Artificial intelligence is transforming industries.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT id, email FROM departments ORDER BY price DESC;",sql
+"SELECT departments.id, departments.name FROM departments JOIN departments ON departments.id = departments.name;",sql
+SELECT name FROM users WHERE id = 'john@example.com';,sql
+Baking the perfect bread takes practice.,non-sql
+Access denied. Contact your administrator.,non-sql
+All that glitters is not gold.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+All that glitters is not gold.,non-sql
+Please reboot your system and try again.,non-sql
+All that glitters is not gold.,non-sql
+UPDATE employees SET created_at = '3' WHERE created_at = 'Admin';,sql
+Baking the perfect bread takes practice.,non-sql
+Welcome to the world of tomorrow!,non-sql
+Healthy eating leads to a healthy life.,non-sql
+"SELECT employees.created_at, departments.price FROM employees JOIN departments ON employees.created_at = departments.price;",sql
+Please reboot your system and try again.,non-sql
+Please reboot your system and try again.,non-sql
+SELECT * FROM users;,sql
+SELECT department_id FROM employees ORDER BY email DESC;,sql
+DELETE FROM departments WHERE department_id = '2024-01-01';,sql
+Upcoming events include a concert and a festival.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"INSERT INTO products (id, email) VALUES ('1', 'john@example.com');",sql
+UPDATE categories SET price = '3' WHERE price = '1';,sql
+"SELECT created_at, name, email FROM orders WHERE email = '3';",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+UPDATE departments SET price = '3' WHERE price = 'Admin';,sql
+"Once upon a time, there was a brave knight.",non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"In a galaxy far, far away...",non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT products.email, categories.name FROM products JOIN categories ON products.email = categories.name;",sql
+"INSERT INTO products (created_at, price) VALUES ('2024-01-01', '2024-01-01');",sql
+"SELECT price, name FROM products ORDER BY name DESC;",sql
+All that glitters is not gold.,non-sql
+"SELECT name, department_id FROM products WHERE id = '2024-01-01';",sql
+"SELECT products.department_id, employees.id FROM products JOIN employees ON products.department_id = employees.id;",sql
+UPDATE users SET price = '1' WHERE price = 'Active';,sql
+"SELECT orders.department_id, employees.id FROM orders JOIN employees ON orders.department_id = employees.id;",sql
+DELETE FROM products WHERE department_id = 'john@example.com';,sql
+SELECT COUNT(*) FROM employees;,sql
+Upcoming events include a concert and a festival.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+INSERT INTO orders (department_id) VALUES ('3');,sql
+Healthy eating leads to a healthy life.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+UPDATE users SET created_at = '3' WHERE created_at = 'Completed';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT * FROM products;,sql
+DELETE FROM departments WHERE price = '1';,sql
+INSERT INTO employees (department_id) VALUES ('john@example.com');,sql
+"SELECT id, created_at, email FROM orders ORDER BY price DESC;",sql
+"In a galaxy far, far away...",non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Error 404: Page not found.,non-sql
+Error 404: Page not found.,non-sql
+Call me Ishmael.,non-sql
+SELECT department_id FROM employees WHERE created_at = '99.99';,sql
+Error 404: Page not found.,non-sql
+Access denied. Contact your administrator.,non-sql
+Access denied. Contact your administrator.,non-sql
+"SELECT products.created_at, departments.department_id FROM products JOIN departments ON products.created_at = departments.department_id;",sql
+SELECT COUNT(*) FROM orders;,sql
+"SELECT departments.email, categories.created_at FROM departments JOIN categories ON departments.email = categories.created_at;",sql
+The weather today is sunny with a chance of rain.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+UPDATE categories SET created_at = '3' WHERE created_at = 'Active';,sql
+DELETE FROM categories WHERE created_at = '2024-01-01';,sql
+UPDATE categories SET name = '3' WHERE name = 'HR';,sql
+Congratulations! You've won a free vacation.,non-sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM users;,sql
+SELECT created_at FROM products ORDER BY created_at DESC;,sql
+Welcome to the world of tomorrow!,non-sql
+Access denied. Contact your administrator.,non-sql
+SELECT created_at FROM categories WHERE name = '2024-01-01';,sql
+Welcome to the world of tomorrow!,non-sql
+Please reboot your system and try again.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"SELECT price, name FROM products WHERE email = '99.99';",sql
+Congratulations! You've won a free vacation.,non-sql
+"To be, or not to be, that is the question.",non-sql
+SELECT * FROM categories;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT COUNT(*) FROM orders;,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Please reboot your system and try again.,non-sql
+"INSERT INTO employees (email, department_id) VALUES ('1', '1');",sql
+SELECT COUNT(*) FROM users;,sql
+The weather today is sunny with a chance of rain.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"INSERT INTO orders (price, department_id) VALUES ('John Doe', 'john@example.com');",sql
+"SELECT price, department_id FROM departments WHERE name = 'John Doe';",sql
+All that glitters is not gold.,non-sql
+"SELECT orders.department_id, orders.id FROM orders JOIN orders ON orders.department_id = orders.id;",sql
+Baking the perfect bread takes practice.,non-sql
+SELECT created_at FROM categories WHERE created_at = '1';,sql
+Please reboot your system and try again.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT COUNT(*) FROM products;,sql
+SELECT name FROM products ORDER BY name DESC;,sql
+Follow the yellow brick road.,non-sql
+"To be, or not to be, that is the question.",non-sql
+SELECT COUNT(*) FROM employees;,sql
+"INSERT INTO employees (id, price) VALUES ('2024-01-01', '3');",sql
+"INSERT INTO orders (name, created_at) VALUES ('2024-01-01', '2024-01-01');",sql
+"INSERT INTO orders (email, id) VALUES ('99.99', '1');",sql
+"SELECT categories.price, orders.email FROM categories JOIN orders ON categories.price = orders.email;",sql
+Error 404: Page not found.,non-sql
+DELETE FROM products WHERE email = '1';,sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT products.department_id, employees.department_id FROM products JOIN employees ON products.department_id = employees.department_id;",sql
+SELECT COUNT(*) FROM orders;,sql
+DELETE FROM departments WHERE name = '2024-01-01';,sql
+DELETE FROM orders WHERE department_id = '2024-01-01';,sql
+"SELECT categories.email, products.id FROM categories JOIN products ON categories.email = products.id;",sql
+"SELECT departments.name, orders.name FROM departments JOIN orders ON departments.name = orders.name;",sql
+Baking the perfect bread takes practice.,non-sql
+"INSERT INTO users (name, price, email) VALUES ('john@example.com', 'john@example.com', '1');",sql
+UPDATE users SET id = '1' WHERE id = 'Completed';,sql
+UPDATE users SET created_at = '99.99' WHERE created_at = 'Completed';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Learning Python is fun and rewarding.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT created_at, name, department_id FROM products WHERE created_at = '3';",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM products WHERE price = '1';,sql
+SELECT COUNT(*) FROM departments;,sql
+"In a galaxy far, far away...",non-sql
+SELECT name FROM users ORDER BY department_id DESC;,sql
+SELECT COUNT(*) FROM departments;,sql
+"SELECT id, price, created_at FROM products WHERE id = '3';",sql
+Learning Python is fun and rewarding.,non-sql
+DELETE FROM employees WHERE price = '3';,sql
+"Buy one, get one free! Limited time offer.",non-sql
+Error 404: Page not found.,non-sql
+Access denied. Contact your administrator.,non-sql
+DELETE FROM categories WHERE name = '99.99';,sql
+"SELECT department_id, email, name FROM departments ORDER BY name DESC;",sql
+"To be, or not to be, that is the question.",non-sql
+"INSERT INTO products (email, name, created_at) VALUES ('1', '99.99', '1');",sql
+"INSERT INTO employees (name, id, price) VALUES ('john@example.com', '1', 'John Doe');",sql
+"Buy one, get one free! Limited time offer.",non-sql
+Please reboot your system and try again.,non-sql
+UPDATE users SET price = '2024-01-01' WHERE price = 'Pending';,sql
+DELETE FROM orders WHERE department_id = 'john@example.com';,sql
+UPDATE employees SET department_id = '3' WHERE department_id = '1';,sql
+DELETE FROM orders WHERE id = '1';,sql
+DELETE FROM users WHERE name = '2024-01-01';,sql
+Congratulations! You've won a free vacation.,non-sql
+INSERT INTO departments (name) VALUES ('3');,sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM categories;,sql
+Follow the yellow brick road.,non-sql
+Call me Ishmael.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT created_at, department_id FROM employees ORDER BY price DESC;",sql
+The weather today is sunny with a chance of rain.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+INSERT INTO departments (price) VALUES ('2024-01-01');,sql
+"INSERT INTO employees (department_id, id) VALUES ('john@example.com', 'john@example.com');",sql
+SELECT COUNT(*) FROM users;,sql
+INSERT INTO departments (department_id) VALUES ('1');,sql
+"SELECT orders.price, orders.name FROM orders JOIN orders ON orders.price = orders.name;",sql
+"SELECT categories.price, products.id FROM categories JOIN products ON categories.price = products.id;",sql
+"SELECT email, department_id, created_at FROM departments ORDER BY id DESC;",sql
+INSERT INTO employees (created_at) VALUES ('John Doe');,sql
+All that glitters is not gold.,non-sql
+DELETE FROM departments WHERE id = 'john@example.com';,sql
+INSERT INTO employees (name) VALUES ('2024-01-01');,sql
+"Buy one, get one free! Limited time offer.",non-sql
+Please reboot your system and try again.,non-sql
+Learning Python is fun and rewarding.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT id, department_id, price FROM categories WHERE id = '2024-01-01';",sql
+"Once upon a time, there was a brave knight.",non-sql
+Baking the perfect bread takes practice.,non-sql
+Baking the perfect bread takes practice.,non-sql
+DELETE FROM departments WHERE department_id = '99.99';,sql
+"Once upon a time, there was a brave knight.",non-sql
+SELECT * FROM products;,sql
+Please reboot your system and try again.,non-sql
+DELETE FROM orders WHERE name = '99.99';,sql
+SELECT COUNT(*) FROM departments;,sql
+SELECT created_at FROM categories WHERE name = 'john@example.com';,sql
+Healthy eating leads to a healthy life.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"SELECT products.name, orders.price FROM products JOIN orders ON products.name = orders.price;",sql
+SELECT created_at FROM orders WHERE created_at = 'John Doe';,sql
+INSERT INTO products (department_id) VALUES ('2024-01-01');,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Welcome to the world of tomorrow!,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+UPDATE employees SET price = '3' WHERE price = 'Admin';,sql
+"SELECT price, created_at FROM products ORDER BY email DESC;",sql
+"SELECT products.created_at, orders.department_id FROM products JOIN orders ON products.created_at = orders.department_id;",sql
+UPDATE users SET email = '99.99' WHERE email = 'HR';,sql
+"SELECT created_at, id, department_id FROM products ORDER BY price DESC;",sql
+SELECT COUNT(*) FROM orders;,sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT department_id, email FROM users ORDER BY price DESC;",sql
+SELECT COUNT(*) FROM employees;,sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT products.department_id, categories.id FROM products JOIN categories ON products.department_id = categories.id;",sql
+"SELECT email, department_id FROM categories ORDER BY id DESC;",sql
+"SELECT orders.created_at, products.price FROM orders JOIN products ON orders.created_at = products.price;",sql
+Baking the perfect bread takes practice.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT created_at, price FROM categories WHERE created_at = '99.99';",sql
+Upcoming events include a concert and a festival.,non-sql
+Baking the perfect bread takes practice.,non-sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT departments.created_at, orders.price FROM departments JOIN orders ON departments.created_at = orders.price;",sql
+Upcoming events include a concert and a festival.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+UPDATE categories SET created_at = '1' WHERE created_at = 'Pending';,sql
+"Once upon a time, there was a brave knight.",non-sql
+DELETE FROM employees WHERE created_at = '1';,sql
+SELECT id FROM categories ORDER BY price DESC;,sql
+Welcome to the world of tomorrow!,non-sql
+Call me Ishmael.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Follow the yellow brick road.,non-sql
+Please reboot your system and try again.,non-sql
+SELECT * FROM departments;,sql
+Artificial intelligence is transforming industries.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Welcome to the world of tomorrow!,non-sql
+INSERT INTO categories (created_at) VALUES ('3');,sql
+Call me Ishmael.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+SELECT * FROM categories;,sql
+DELETE FROM users WHERE name = '1';,sql
+SELECT * FROM users;,sql
+"SELECT departments.email, categories.name FROM departments JOIN categories ON departments.email = categories.name;",sql
+Learning Python is fun and rewarding.,non-sql
+Follow the yellow brick road.,non-sql
+DELETE FROM categories WHERE name = '1';,sql
+DELETE FROM employees WHERE id = '3';,sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT departments.id, employees.name FROM departments JOIN employees ON departments.id = employees.name;",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT COUNT(*) FROM departments;,sql
+INSERT INTO orders (created_at) VALUES ('3');,sql
+Error 404: Page not found.,non-sql
+"SELECT price, name, email FROM orders WHERE email = '1';",sql
+Baking the perfect bread takes practice.,non-sql
+Please reboot your system and try again.,non-sql
+INSERT INTO employees (created_at) VALUES ('3');,sql
+SELECT COUNT(*) FROM products;,sql
+SELECT name FROM departments ORDER BY name DESC;,sql
+UPDATE departments SET id = '1' WHERE id = 'Admin';,sql
+UPDATE categories SET email = '2024-01-01' WHERE email = 'HR';,sql
+"SELECT orders.id, products.name FROM orders JOIN products ON orders.id = products.name;",sql
+"INSERT INTO departments (department_id, created_at, price) VALUES ('1', 'john@example.com', 'John Doe');",sql
+Error 404: Page not found.,non-sql
+"SELECT price, created_at, name FROM categories WHERE id = '1';",sql
+DELETE FROM orders WHERE department_id = '1';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT * FROM categories;,sql
+SELECT * FROM orders;,sql
+"In a galaxy far, far away...",non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT name, email, price FROM categories WHERE email = '1';",sql
+"In a galaxy far, far away...",non-sql
+Welcome to the world of tomorrow!,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+DELETE FROM orders WHERE email = '3';,sql
+SELECT COUNT(*) FROM users;,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"SELECT products.department_id, orders.created_at FROM products JOIN orders ON products.department_id = orders.created_at;",sql
+Learning Python is fun and rewarding.,non-sql
+Error 404: Page not found.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT * FROM orders;,sql
+Call me Ishmael.,non-sql
+SELECT * FROM departments;,sql
+Please reboot your system and try again.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM orders WHERE id = '2024-01-01';,sql
+UPDATE departments SET id = '3' WHERE id = 'Completed';,sql
+SELECT id FROM products WHERE email = '1';,sql
+Welcome to the world of tomorrow!,non-sql
+DELETE FROM departments WHERE price = '1';,sql
+Error 404: Page not found.,non-sql
+Follow the yellow brick road.,non-sql
+DELETE FROM categories WHERE created_at = '1';,sql
+Learning Python is fun and rewarding.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Follow the yellow brick road.,non-sql
+"In a galaxy far, far away...",non-sql
+UPDATE departments SET id = '1' WHERE id = '1';,sql
+"SELECT price, id, department_id FROM products WHERE created_at = 'john@example.com';",sql
+DELETE FROM departments WHERE email = '99.99';,sql
+SELECT COUNT(*) FROM users;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT COUNT(*) FROM orders;,sql
+"Once upon a time, there was a brave knight.",non-sql
+SELECT department_id FROM products WHERE department_id = 'John Doe';,sql
+"Once upon a time, there was a brave knight.",non-sql
+UPDATE orders SET email = '1' WHERE email = '1';,sql
+Error 404: Page not found.,non-sql
+"SELECT users.id, orders.price FROM users JOIN orders ON users.id = orders.price;",sql
+DELETE FROM employees WHERE email = '1';,sql
+SELECT * FROM employees;,sql
+"In a galaxy far, far away...",non-sql
+Upcoming events include a concert and a festival.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+SELECT name FROM categories ORDER BY department_id DESC;,sql
+The weather today is sunny with a chance of rain.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+SELECT * FROM products;,sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT products.id, departments.id FROM products JOIN departments ON products.id = departments.id;",sql
+DELETE FROM employees WHERE id = '2024-01-01';,sql
+"SELECT name, created_at FROM users WHERE price = 'John Doe';",sql
+"SELECT id, price FROM employees ORDER BY created_at DESC;",sql
+UPDATE categories SET name = '99.99' WHERE name = 'Completed';,sql
+Please reboot your system and try again.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Artificial intelligence is transforming industries.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"SELECT name, department_id FROM users WHERE created_at = '3';",sql
+Artificial intelligence is transforming industries.,non-sql
+DELETE FROM products WHERE id = '1';,sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT department_id, created_at FROM departments WHERE price = '2024-01-01';",sql
+Congratulations! You've won a free vacation.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+"SELECT price, department_id FROM departments WHERE created_at = 'John Doe';",sql
+SELECT name FROM categories WHERE id = 'John Doe';,sql
+Error 404: Page not found.,non-sql
+SELECT * FROM employees;,sql
+"SELECT categories.name, employees.name FROM categories JOIN employees ON categories.name = employees.name;",sql
+Baking the perfect bread takes practice.,non-sql
+DELETE FROM departments WHERE price = '2024-01-01';,sql
+Follow the yellow brick road.,non-sql
+DELETE FROM users WHERE created_at = 'John Doe';,sql
+Access denied. Contact your administrator.,non-sql
+DELETE FROM departments WHERE price = '3';,sql
+Learning Python is fun and rewarding.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"INSERT INTO orders (created_at, department_id, name) VALUES ('2024-01-01', 'john@example.com', '2024-01-01');",sql
+DELETE FROM orders WHERE name = '99.99';,sql
+"SELECT departments.email, categories.id FROM departments JOIN categories ON departments.email = categories.id;",sql
+Please reboot your system and try again.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+Please reboot your system and try again.,non-sql
+SELECT name FROM users WHERE department_id = '99.99';,sql
+DELETE FROM products WHERE department_id = 'John Doe';,sql
+"SELECT categories.id, users.email FROM categories JOIN users ON categories.id = users.email;",sql
+Artificial intelligence is transforming industries.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT id, name FROM products WHERE name = '3';",sql
+Welcome to the world of tomorrow!,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+DELETE FROM users WHERE department_id = '99.99';,sql
+All that glitters is not gold.,non-sql
+SELECT * FROM orders;,sql
+"SELECT email, price, department_id FROM products ORDER BY name DESC;",sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT email, name, id FROM departments WHERE department_id = 'John Doe';",sql
+DELETE FROM employees WHERE price = '99.99';,sql
+SELECT * FROM orders;,sql
+The weather today is sunny with a chance of rain.,non-sql
+Follow the yellow brick road.,non-sql
+Error 404: Page not found.,non-sql
+"SELECT email, name, created_at FROM orders WHERE department_id = '99.99';",sql
+SELECT * FROM departments;,sql
+Welcome to the world of tomorrow!,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT * FROM products;,sql
+Call me Ishmael.,non-sql
+Learning Python is fun and rewarding.,non-sql
+UPDATE categories SET department_id = '2024-01-01' WHERE department_id = 'Active';,sql
+"INSERT INTO employees (created_at, department_id) VALUES ('john@example.com', '3');",sql
+"SELECT orders.department_id, departments.price FROM orders JOIN departments ON orders.department_id = departments.price;",sql
+All that glitters is not gold.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Follow the yellow brick road.,non-sql
+"SELECT departments.id, orders.id FROM departments JOIN orders ON departments.id = orders.id;",sql
+"SELECT created_at, department_id, price FROM categories WHERE email = '2024-01-01';",sql
+SELECT * FROM departments;,sql
+Upcoming events include a concert and a festival.,non-sql
+UPDATE departments SET created_at = '1' WHERE created_at = 'Active';,sql
+UPDATE categories SET price = '3' WHERE price = 'Admin';,sql
+SELECT COUNT(*) FROM categories;,sql
+"INSERT INTO employees (name, price, department_id) VALUES ('1', '2024-01-01', '1');",sql
+SELECT * FROM users;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT price FROM orders WHERE department_id = '99.99';,sql
+Healthy eating leads to a healthy life.,non-sql
+UPDATE products SET created_at = '3' WHERE created_at = 'Completed';,sql
+Baking the perfect bread takes practice.,non-sql
+SELECT price FROM departments ORDER BY email DESC;,sql
+UPDATE users SET department_id = '2024-01-01' WHERE department_id = 'Admin';,sql
+UPDATE categories SET price = '99.99' WHERE price = 'Pending';,sql
+Baking the perfect bread takes practice.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT id, email FROM categories ORDER BY department_id DESC;",sql
+Healthy eating leads to a healthy life.,non-sql
+SELECT * FROM orders;,sql
+Congratulations! You've won a free vacation.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT users.email, categories.department_id FROM users JOIN categories ON users.email = categories.department_id;",sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT orders.email, departments.department_id FROM orders JOIN departments ON orders.email = departments.department_id;",sql
+"SELECT departments.created_at, orders.id FROM departments JOIN orders ON departments.created_at = orders.id;",sql
+Congratulations! You've won a free vacation.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT id, price, department_id FROM categories ORDER BY name DESC;",sql
+"In a galaxy far, far away...",non-sql
+"In a galaxy far, far away...",non-sql
+Error 404: Page not found.,non-sql
+"To be, or not to be, that is the question.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT COUNT(*) FROM categories;,sql
+SELECT * FROM products;,sql
+INSERT INTO departments (department_id) VALUES ('99.99');,sql
+Upcoming events include a concert and a festival.,non-sql
+"SELECT id, department_id FROM categories ORDER BY price DESC;",sql
+"SELECT users.name, products.name FROM users JOIN products ON users.name = products.name;",sql
+"SELECT department_id, price FROM products WHERE price = '3';",sql
+Access denied. Contact your administrator.,non-sql
+"To be, or not to be, that is the question.",non-sql
+SELECT COUNT(*) FROM users;,sql
+SELECT COUNT(*) FROM categories;,sql
+SELECT COUNT(*) FROM users;,sql
+SELECT * FROM users;,sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT name, created_at, department_id FROM orders WHERE department_id = '99.99';",sql
+"SELECT created_at, name, price FROM departments ORDER BY price DESC;",sql
+SELECT * FROM users;,sql
+Healthy eating leads to a healthy life.,non-sql
+Baking the perfect bread takes practice.,non-sql
+Follow the yellow brick road.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+UPDATE employees SET id = 'John Doe' WHERE id = '1';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"SELECT users.created_at, employees.price FROM users JOIN employees ON users.created_at = employees.price;",sql
+SELECT email FROM products ORDER BY id DESC;,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Please reboot your system and try again.,non-sql
+UPDATE orders SET email = '2024-01-01' WHERE email = 'Active';,sql
+The weather today is sunny with a chance of rain.,non-sql
+Please reboot your system and try again.,non-sql
+SELECT price FROM departments ORDER BY department_id DESC;,sql
+"In a galaxy far, far away...",non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT email, name FROM departments ORDER BY name DESC;",sql
+"INSERT INTO departments (department_id, id, name) VALUES ('1', 'John Doe', 'John Doe');",sql
+SELECT * FROM employees;,sql
+SELECT department_id FROM categories WHERE created_at = '3';,sql
+"SELECT price, email FROM employees ORDER BY price DESC;",sql
+"Once upon a time, there was a brave knight.",non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT products.created_at, categories.price FROM products JOIN categories ON products.created_at = categories.price;",sql
+Baking the perfect bread takes practice.,non-sql
+INSERT INTO products (id) VALUES ('3');,sql
+"INSERT INTO departments (price, created_at, name) VALUES ('99.99', '3', '1');",sql
+"SELECT id, email FROM products ORDER BY email DESC;",sql
+DELETE FROM employees WHERE email = '2024-01-01';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"SELECT id, name FROM categories ORDER BY department_id DESC;",sql
+Baking the perfect bread takes practice.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"In a galaxy far, far away...",non-sql
+Error 404: Page not found.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+"In a galaxy far, far away...",non-sql
+DELETE FROM departments WHERE price = '2024-01-01';,sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT categories.email, orders.name FROM categories JOIN orders ON categories.email = orders.name;",sql
+SELECT COUNT(*) FROM departments;,sql
+UPDATE users SET created_at = '3' WHERE created_at = 'Completed';,sql
+SELECT COUNT(*) FROM orders;,sql
+"Once upon a time, there was a brave knight.",non-sql
+Congratulations! You've won a free vacation.,non-sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT products.email, employees.department_id FROM products JOIN employees ON products.email = employees.department_id;",sql
+"To be, or not to be, that is the question.",non-sql
+SELECT * FROM employees;,sql
+UPDATE users SET created_at = '99.99' WHERE created_at = 'HR';,sql
+UPDATE users SET department_id = 'john@example.com' WHERE department_id = 'Pending';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Error 404: Page not found.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+Artificial intelligence is transforming industries.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+INSERT INTO departments (email) VALUES ('99.99');,sql
+Access denied. Contact your administrator.,non-sql
+SELECT COUNT(*) FROM orders;,sql
+"Once upon a time, there was a brave knight.",non-sql
+UPDATE users SET created_at = '99.99' WHERE created_at = 'Completed';,sql
+Upcoming events include a concert and a festival.,non-sql
+INSERT INTO categories (id) VALUES ('john@example.com');,sql
+"To be, or not to be, that is the question.",non-sql
+SELECT COUNT(*) FROM employees;,sql
+DELETE FROM users WHERE created_at = '1';,sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM departments;,sql
+Access denied. Contact your administrator.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"INSERT INTO orders (email, name) VALUES ('2024-01-01', 'John Doe');",sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT created_at, department_id, email FROM orders ORDER BY department_id DESC;",sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT employees.name, employees.department_id FROM employees JOIN employees ON employees.name = employees.department_id;",sql
+SELECT COUNT(*) FROM categories;,sql
+"SELECT department_id, name, price FROM orders WHERE id = 'John Doe';",sql
+SELECT * FROM products;,sql
+All that glitters is not gold.,non-sql
+DELETE FROM departments WHERE created_at = '2024-01-01';,sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT id, department_id FROM orders ORDER BY price DESC;",sql
+DELETE FROM departments WHERE created_at = 'John Doe';,sql
+Healthy eating leads to a healthy life.,non-sql
+DELETE FROM employees WHERE department_id = '1';,sql
+"SELECT orders.department_id, users.created_at FROM orders JOIN users ON orders.department_id = users.created_at;",sql
+SELECT COUNT(*) FROM products;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+UPDATE products SET id = '99.99' WHERE id = '1';,sql
+SELECT COUNT(*) FROM orders;,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+SELECT price FROM departments WHERE email = '1';,sql
+"Buy one, get one free! Limited time offer.",non-sql
+"INSERT INTO users (name, id) VALUES ('99.99', 'John Doe');",sql
+"SELECT department_id, email FROM employees ORDER BY id DESC;",sql
+Welcome to the world of tomorrow!,non-sql
+Access denied. Contact your administrator.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+DELETE FROM departments WHERE price = 'John Doe';,sql
+Please reboot your system and try again.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT categories.name, orders.created_at FROM categories JOIN orders ON categories.name = orders.created_at;",sql
+"To be, or not to be, that is the question.",non-sql
+"In a galaxy far, far away...",non-sql
+"SELECT created_at, price, email FROM products ORDER BY id DESC;",sql
+Upcoming events include a concert and a festival.,non-sql
+DELETE FROM products WHERE email = '99.99';,sql
+All that glitters is not gold.,non-sql
+Please reboot your system and try again.,non-sql
+"In a galaxy far, far away...",non-sql
+The weather today is sunny with a chance of rain.,non-sql
+UPDATE products SET price = '3' WHERE price = 'Pending';,sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+All that glitters is not gold.,non-sql
+SELECT * FROM orders;,sql
+Welcome to the world of tomorrow!,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+SELECT department_id FROM orders WHERE department_id = '99.99';,sql
+Access denied. Contact your administrator.,non-sql
+SELECT COUNT(*) FROM categories;,sql
+DELETE FROM departments WHERE email = '3';,sql
+SELECT * FROM orders;,sql
+SELECT COUNT(*) FROM orders;,sql
+Welcome to the world of tomorrow!,non-sql
+DELETE FROM departments WHERE department_id = 'John Doe';,sql
+SELECT department_id FROM employees WHERE price = '1';,sql
+UPDATE users SET created_at = '99.99' WHERE created_at = 'HR';,sql
+Upcoming events include a concert and a festival.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT users.id, departments.name FROM users JOIN departments ON users.id = departments.name;",sql
+The weather today is sunny with a chance of rain.,non-sql
+Access denied. Contact your administrator.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT price FROM departments ORDER BY id DESC;,sql
+"SELECT email, price, created_at FROM categories ORDER BY email DESC;",sql
+"Buy one, get one free! Limited time offer.",non-sql
+Access denied. Contact your administrator.,non-sql
+Follow the yellow brick road.,non-sql
+DELETE FROM products WHERE price = 'John Doe';,sql
+The weather today is sunny with a chance of rain.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"In a galaxy far, far away...",non-sql
+"In a galaxy far, far away...",non-sql
+"INSERT INTO departments (name, price, created_at) VALUES ('John Doe', 'john@example.com', 'John Doe');",sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT email, price FROM users ORDER BY email DESC;",sql
+Congratulations! You've won a free vacation.,non-sql
+SELECT department_id FROM products WHERE id = '99.99';,sql
+Access denied. Contact your administrator.,non-sql
+UPDATE categories SET name = 'john@example.com' WHERE name = 'Admin';,sql
+"INSERT INTO departments (email, department_id) VALUES ('1', 'john@example.com');",sql
+"Once upon a time, there was a brave knight.",non-sql
+SELECT COUNT(*) FROM employees;,sql
+Upcoming events include a concert and a festival.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+UPDATE departments SET name = '2024-01-01' WHERE name = 'HR';,sql
+SELECT COUNT(*) FROM orders;,sql
+SELECT COUNT(*) FROM products;,sql
+Healthy eating leads to a healthy life.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"INSERT INTO orders (price, department_id) VALUES ('2024-01-01', '1');",sql
+"To be, or not to be, that is the question.",non-sql
+SELECT department_id FROM departments ORDER BY email DESC;,sql
+"To be, or not to be, that is the question.",non-sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT department_id, email FROM products WHERE department_id = 'John Doe';",sql
+Please reboot your system and try again.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+UPDATE products SET id = '99.99' WHERE id = 'Pending';,sql
+"In a galaxy far, far away...",non-sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT price, email FROM categories ORDER BY email DESC;",sql
+DELETE FROM users WHERE price = '1';,sql
+Follow the yellow brick road.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT created_at, price FROM departments ORDER BY id DESC;",sql
+Error 404: Page not found.,non-sql
+Welcome to the world of tomorrow!,non-sql
+Error 404: Page not found.,non-sql
+"INSERT INTO orders (price, department_id, name) VALUES ('3', 'John Doe', '3');",sql
+"INSERT INTO users (created_at, department_id, price) VALUES ('3', '2024-01-01', '2024-01-01');",sql
+SELECT COUNT(*) FROM products;,sql
+"SELECT employees.created_at, departments.department_id FROM employees JOIN departments ON employees.created_at = departments.department_id;",sql
+UPDATE categories SET price = '1' WHERE price = 'Admin';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT * FROM users;,sql
+"SELECT name, id FROM products WHERE id = '1';",sql
+The weather today is sunny with a chance of rain.,non-sql
+"INSERT INTO users (email, created_at, department_id) VALUES ('john@example.com', 'john@example.com', '3');",sql
+"SELECT id, created_at, department_id FROM departments ORDER BY price DESC;",sql
+"INSERT INTO orders (id, created_at, email) VALUES ('John Doe', '1', '99.99');",sql
+"SELECT email, department_id FROM departments ORDER BY id DESC;",sql
+"SELECT products.department_id, users.id FROM products JOIN users ON products.department_id = users.id;",sql
+"Once upon a time, there was a brave knight.",non-sql
+Artificial intelligence is transforming industries.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT users.email, users.name FROM users JOIN users ON users.email = users.name;",sql
+Artificial intelligence is transforming industries.,non-sql
+"SELECT email, name, created_at FROM employees ORDER BY name DESC;",sql
+SELECT * FROM categories;,sql
+"SELECT id, created_at, email FROM departments WHERE id = '2024-01-01';",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT * FROM categories;,sql
+SELECT * FROM categories;,sql
+Error 404: Page not found.,non-sql
+"SELECT products.created_at, employees.id FROM products JOIN employees ON products.created_at = employees.id;",sql
+INSERT INTO products (name) VALUES ('3');,sql
+"INSERT INTO categories (department_id, created_at, id) VALUES ('99.99', '2024-01-01', 'John Doe');",sql
+DELETE FROM departments WHERE price = '99.99';,sql
+"In a galaxy far, far away...",non-sql
+INSERT INTO categories (id) VALUES ('john@example.com');,sql
+SELECT department_id FROM departments ORDER BY email DESC;,sql
+"SELECT departments.name, users.price FROM departments JOIN users ON departments.name = users.price;",sql
+"To be, or not to be, that is the question.",non-sql
+"INSERT INTO employees (email, department_id) VALUES ('2024-01-01', '3');",sql
+Follow the yellow brick road.,non-sql
+Error 404: Page not found.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+INSERT INTO users (price) VALUES ('John Doe');,sql
+SELECT * FROM users;,sql
+SELECT created_at FROM categories ORDER BY email DESC;,sql
+DELETE FROM orders WHERE email = '3';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Follow the yellow brick road.,non-sql
+"To be, or not to be, that is the question.",non-sql
+DELETE FROM orders WHERE email = 'john@example.com';,sql
+"INSERT INTO products (email, name, created_at) VALUES ('john@example.com', 'john@example.com', 'John Doe');",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"INSERT INTO departments (id, department_id, email) VALUES ('3', '99.99', 'John Doe');",sql
+Upcoming events include a concert and a festival.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT id, name, price FROM employees WHERE department_id = 'john@example.com';",sql
+"SELECT employees.name, users.id FROM employees JOIN users ON employees.name = users.id;",sql
+"INSERT INTO users (price, id, name) VALUES ('99.99', '3', 'john@example.com');",sql
+DELETE FROM products WHERE name = '2024-01-01';,sql
+Access denied. Contact your administrator.,non-sql
+"SELECT id, email FROM departments WHERE created_at = '3';",sql
+All that glitters is not gold.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"SELECT created_at, name, email FROM products ORDER BY price DESC;",sql
+"SELECT created_at, email FROM departments WHERE price = '3';",sql
+SELECT department_id FROM orders ORDER BY id DESC;,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+DELETE FROM users WHERE price = 'john@example.com';,sql
+Healthy eating leads to a healthy life.,non-sql
+DELETE FROM users WHERE email = '1';,sql
+The weather today is sunny with a chance of rain.,non-sql
+"SELECT users.name, products.created_at FROM users JOIN products ON users.name = products.created_at;",sql
+Learning Python is fun and rewarding.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT orders.id, categories.name FROM orders JOIN categories ON orders.id = categories.name;",sql
+"INSERT INTO products (department_id, name) VALUES ('2024-01-01', 'John Doe');",sql
+All that glitters is not gold.,non-sql
+Baking the perfect bread takes practice.,non-sql
+Welcome to the world of tomorrow!,non-sql
+UPDATE departments SET created_at = '99.99' WHERE created_at = 'Active';,sql
+Please reboot your system and try again.,non-sql
+"To be, or not to be, that is the question.",non-sql
+Follow the yellow brick road.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Call me Ishmael.,non-sql
+SELECT * FROM orders;,sql
+Learning Python is fun and rewarding.,non-sql
+Access denied. Contact your administrator.,non-sql
+Follow the yellow brick road.,non-sql
+"SELECT email, department_id FROM departments ORDER BY email DESC;",sql
+"SELECT departments.created_at, departments.price FROM departments JOIN departments ON departments.created_at = departments.price;",sql
+UPDATE users SET department_id = '3' WHERE department_id = 'Admin';,sql
+"SELECT email, department_id, price FROM users ORDER BY email DESC;",sql
+SELECT * FROM employees;,sql
+DELETE FROM orders WHERE department_id = 'john@example.com';,sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM users;,sql
+SELECT * FROM products;,sql
+UPDATE employees SET email = '3' WHERE email = 'Completed';,sql
+"Once upon a time, there was a brave knight.",non-sql
+Baking the perfect bread takes practice.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT COUNT(*) FROM categories;,sql
+UPDATE users SET name = '3' WHERE name = 'Active';,sql
+SELECT id FROM users ORDER BY email DESC;,sql
+INSERT INTO users (email) VALUES ('99.99');,sql
+Access denied. Contact your administrator.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+Access denied. Contact your administrator.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+DELETE FROM departments WHERE price = 'john@example.com';,sql
+UPDATE employees SET email = '2024-01-01' WHERE email = 'Completed';,sql
+Please reboot your system and try again.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"In a galaxy far, far away...",non-sql
+All that glitters is not gold.,non-sql
+All that glitters is not gold.,non-sql
+SELECT department_id FROM employees ORDER BY id DESC;,sql
+"INSERT INTO departments (id, name, price) VALUES ('3', 'John Doe', '99.99');",sql
+"SELECT orders.price, products.price FROM orders JOIN products ON orders.price = products.price;",sql
+Error 404: Page not found.,non-sql
+"SELECT id, department_id FROM users ORDER BY department_id DESC;",sql
+"SELECT products.email, categories.email FROM products JOIN categories ON products.email = categories.email;",sql
+DELETE FROM users WHERE email = '3';,sql
+Healthy eating leads to a healthy life.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+SELECT COUNT(*) FROM employees;,sql
+SELECT COUNT(*) FROM categories;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT categories.name, products.email FROM categories JOIN products ON categories.name = products.email;",sql
+SELECT * FROM users;,sql
+SELECT * FROM users;,sql
+UPDATE products SET name = '99.99' WHERE name = 'Pending';,sql
+"SELECT created_at, id, name FROM employees ORDER BY created_at DESC;",sql
+Please reboot your system and try again.,non-sql
+UPDATE users SET department_id = 'John Doe' WHERE department_id = 'Active';,sql
+"INSERT INTO products (name, price, department_id) VALUES ('1', '99.99', 'john@example.com');",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Welcome to the world of tomorrow!,non-sql
+All that glitters is not gold.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT id, created_at FROM categories ORDER BY email DESC;",sql
+"SELECT employees.email, orders.name FROM employees JOIN orders ON employees.email = orders.name;",sql
+All that glitters is not gold.,non-sql
+"SELECT orders.name, products.email FROM orders JOIN products ON orders.name = products.email;",sql
+Access denied. Contact your administrator.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Access denied. Contact your administrator.,non-sql
+DELETE FROM employees WHERE created_at = 'John Doe';,sql
+Welcome to the world of tomorrow!,non-sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM products;,sql
+INSERT INTO orders (id) VALUES ('2024-01-01');,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM products WHERE name = 'john@example.com';,sql
+Call me Ishmael.,non-sql
+UPDATE employees SET created_at = '3' WHERE created_at = 'Admin';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT COUNT(*) FROM users;,sql
+Upcoming events include a concert and a festival.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"To be, or not to be, that is the question.",non-sql
+All that glitters is not gold.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+Access denied. Contact your administrator.,non-sql
+SELECT department_id FROM products WHERE department_id = 'john@example.com';,sql
+UPDATE products SET name = '2024-01-01' WHERE name = 'Completed';,sql
+SELECT name FROM employees WHERE email = '3';,sql
+Access denied. Contact your administrator.,non-sql
+Baking the perfect bread takes practice.,non-sql
+SELECT name FROM products WHERE name = 'John Doe';,sql
+"SELECT name, id FROM categories ORDER BY department_id DESC;",sql
+Follow the yellow brick road.,non-sql
+Error 404: Page not found.,non-sql
+Baking the perfect bread takes practice.,non-sql
+Call me Ishmael.,non-sql
+Please reboot your system and try again.,non-sql
+"To be, or not to be, that is the question.",non-sql
+SELECT COUNT(*) FROM categories;,sql
+UPDATE orders SET id = 'John Doe' WHERE id = 'Admin';,sql
+Healthy eating leads to a healthy life.,non-sql
+DELETE FROM orders WHERE email = 'John Doe';,sql
+"INSERT INTO users (price, department_id, name) VALUES ('john@example.com', '99.99', '3');",sql
+"To be, or not to be, that is the question.",non-sql
+DELETE FROM products WHERE email = 'john@example.com';,sql
+SELECT price FROM orders ORDER BY created_at DESC;,sql
+"SELECT users.email, employees.name FROM users JOIN employees ON users.email = employees.name;",sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT department_id, email, id FROM employees ORDER BY department_id DESC;",sql
+"To be, or not to be, that is the question.",non-sql
+SELECT * FROM users;,sql
+SELECT created_at FROM employees ORDER BY email DESC;,sql
+Upcoming events include a concert and a festival.,non-sql
+Please reboot your system and try again.,non-sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT users.department_id, orders.id FROM users JOIN orders ON users.department_id = orders.id;",sql
+UPDATE users SET email = 'john@example.com' WHERE email = 'HR';,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"SELECT department_id, id, email FROM departments ORDER BY created_at DESC;",sql
+"In a galaxy far, far away...",non-sql
+"INSERT INTO categories (id, department_id, created_at) VALUES ('99.99', 'John Doe', '3');",sql
+"SELECT products.email, departments.department_id FROM products JOIN departments ON products.email = departments.department_id;",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+All that glitters is not gold.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Please reboot your system and try again.,non-sql
+"SELECT price, email, department_id FROM users WHERE id = '3';",sql
+Learning Python is fun and rewarding.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"To be, or not to be, that is the question.",non-sql
+Access denied. Contact your administrator.,non-sql
+"SELECT created_at, price FROM departments ORDER BY id DESC;",sql
+"SELECT orders.department_id, products.email FROM orders JOIN products ON orders.department_id = products.email;",sql
+SELECT * FROM orders;,sql
+Follow the yellow brick road.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"SELECT id, created_at FROM categories WHERE department_id = '3';",sql
+UPDATE employees SET name = '99.99' WHERE name = 'Completed';,sql
+Follow the yellow brick road.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"SELECT email, created_at FROM products WHERE id = 'john@example.com';",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"To be, or not to be, that is the question.",non-sql
+SELECT * FROM orders;,sql
+SELECT COUNT(*) FROM products;,sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+INSERT INTO orders (id) VALUES ('2024-01-01');,sql
+"SELECT created_at, email, name FROM products ORDER BY email DESC;",sql
+"SELECT categories.id, departments.department_id FROM categories JOIN departments ON categories.id = departments.department_id;",sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT department_id, price FROM categories WHERE id = '1';",sql
+Call me Ishmael.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT department_id, created_at, email FROM employees ORDER BY department_id DESC;",sql
+Error 404: Page not found.,non-sql
+Please reboot your system and try again.,non-sql
+"SELECT email, price, name FROM products WHERE email = '1';",sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"INSERT INTO products (price, name) VALUES ('John Doe', '1');",sql
+DELETE FROM employees WHERE price = 'John Doe';,sql
+DELETE FROM products WHERE email = '2024-01-01';,sql
+Learning Python is fun and rewarding.,non-sql
+"INSERT INTO employees (email, name) VALUES ('1', 'john@example.com');",sql
+DELETE FROM users WHERE email = 'John Doe';,sql
+"SELECT department_id, email, name FROM categories WHERE department_id = '3';",sql
+"SELECT departments.email, products.created_at FROM departments JOIN products ON departments.email = products.created_at;",sql
+DELETE FROM products WHERE email = '1';,sql
+"SELECT departments.email, products.created_at FROM departments JOIN products ON departments.email = products.created_at;",sql
+DELETE FROM departments WHERE id = '3';,sql
+DELETE FROM departments WHERE created_at = 'john@example.com';,sql
+Access denied. Contact your administrator.,non-sql
+Learning Python is fun and rewarding.,non-sql
+SELECT COUNT(*) FROM orders;,sql
+"Once upon a time, there was a brave knight.",non-sql
+Follow the yellow brick road.,non-sql
+Call me Ishmael.,non-sql
+"SELECT id, created_at FROM categories ORDER BY department_id DESC;",sql
+Artificial intelligence is transforming industries.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+UPDATE orders SET price = '1' WHERE price = '1';,sql
+"SELECT id, name, created_at FROM categories ORDER BY email DESC;",sql
+Baking the perfect bread takes practice.,non-sql
+INSERT INTO orders (id) VALUES ('3');,sql
+Baking the perfect bread takes practice.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"INSERT INTO products (name, created_at) VALUES ('John Doe', 'john@example.com');",sql
+DELETE FROM employees WHERE name = '1';,sql
+DELETE FROM employees WHERE email = '3';,sql
+"SELECT price, department_id FROM products ORDER BY department_id DESC;",sql
+UPDATE users SET created_at = '1' WHERE created_at = 'Active';,sql
+"SELECT departments.created_at, departments.department_id FROM departments JOIN departments ON departments.created_at = departments.department_id;",sql
+The weather today is sunny with a chance of rain.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Welcome to the world of tomorrow!,non-sql
+Call me Ishmael.,non-sql
+SELECT * FROM employees;,sql
+Artificial intelligence is transforming industries.,non-sql
+UPDATE users SET price = '99.99' WHERE price = 'HR';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Baking the perfect bread takes practice.,non-sql
+Please reboot your system and try again.,non-sql
+"SELECT department_id, name FROM departments WHERE name = 'John Doe';",sql
+"SELECT name, email, id FROM products ORDER BY name DESC;",sql
+UPDATE orders SET department_id = '2024-01-01' WHERE department_id = 'Active';,sql
+Baking the perfect bread takes practice.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+"SELECT users.department_id, products.email FROM users JOIN products ON users.department_id = products.email;",sql
+"To be, or not to be, that is the question.",non-sql
+All that glitters is not gold.,non-sql
+INSERT INTO products (id) VALUES ('john@example.com');,sql
+Follow the yellow brick road.,non-sql
+Follow the yellow brick road.,non-sql
+Follow the yellow brick road.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Error 404: Page not found.,non-sql
+INSERT INTO products (price) VALUES ('John Doe');,sql
+Follow the yellow brick road.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+"SELECT categories.email, departments.price FROM categories JOIN departments ON categories.email = departments.price;",sql
+SELECT department_id FROM orders WHERE price = '99.99';,sql
+"SELECT email, name, created_at FROM categories ORDER BY email DESC;",sql
+Learning Python is fun and rewarding.,non-sql
+Learning Python is fun and rewarding.,non-sql
+Follow the yellow brick road.,non-sql
+Welcome to the world of tomorrow!,non-sql
+Please reboot your system and try again.,non-sql
+"SELECT email, department_id FROM departments WHERE id = 'john@example.com';",sql
+SELECT COUNT(*) FROM users;,sql
+"To be, or not to be, that is the question.",non-sql
+Error 404: Page not found.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Access denied. Contact your administrator.,non-sql
+All that glitters is not gold.,non-sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT orders.id, departments.email FROM orders JOIN departments ON orders.id = departments.email;",sql
+INSERT INTO departments (department_id) VALUES ('john@example.com');,sql
+"INSERT INTO users (department_id, id) VALUES ('3', '2024-01-01');",sql
+Call me Ishmael.,non-sql
+The weather today is sunny with a chance of rain.,non-sql
+Error 404: Page not found.,non-sql
+"SELECT name, email, price FROM orders ORDER BY email DESC;",sql
+INSERT INTO users (department_id) VALUES ('John Doe');,sql
+"To be, or not to be, that is the question.",non-sql
+Welcome to the world of tomorrow!,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"To be, or not to be, that is the question.",non-sql
+Call me Ishmael.,non-sql
+SELECT email FROM departments ORDER BY department_id DESC;,sql
+Welcome to the world of tomorrow!,non-sql
+Learning Python is fun and rewarding.,non-sql
+DELETE FROM departments WHERE email = '99.99';,sql
+"INSERT INTO employees (name, created_at) VALUES ('3', '2024-01-01');",sql
+"To be, or not to be, that is the question.",non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+Healthy eating leads to a healthy life.,non-sql
+Error 404: Page not found.,non-sql
+Please reboot your system and try again.,non-sql
+"SELECT price, created_at FROM orders ORDER BY department_id DESC;",sql
+INSERT INTO departments (department_id) VALUES ('John Doe');,sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT products.price, employees.id FROM products JOIN employees ON products.price = employees.id;",sql
+Please reboot your system and try again.,non-sql
+DELETE FROM categories WHERE department_id = '99.99';,sql
+Congratulations! You've won a free vacation.,non-sql
+DELETE FROM departments WHERE id = '2024-01-01';,sql
+SELECT COUNT(*) FROM products;,sql
+SELECT * FROM employees;,sql
+Please reboot your system and try again.,non-sql
+"SELECT products.created_at, employees.name FROM products JOIN employees ON products.created_at = employees.name;",sql
+"SELECT price, id, department_id FROM categories ORDER BY price DESC;",sql
+"SELECT users.name, users.department_id FROM users JOIN users ON users.name = users.department_id;",sql
+Healthy eating leads to a healthy life.,non-sql
+"SELECT created_at, name, department_id FROM categories ORDER BY department_id DESC;",sql
+Learning Python is fun and rewarding.,non-sql
+All that glitters is not gold.,non-sql
+SELECT COUNT(*) FROM employees;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT * FROM categories;,sql
+All that glitters is not gold.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+DELETE FROM categories WHERE price = 'john@example.com';,sql
+DELETE FROM employees WHERE created_at = '2024-01-01';,sql
+UPDATE categories SET created_at = '99.99' WHERE created_at = 'Active';,sql
+Upcoming events include a concert and a festival.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+All that glitters is not gold.,non-sql
+"INSERT INTO employees (id, department_id) VALUES ('2024-01-01', 'john@example.com');",sql
+Congratulations! You've won a free vacation.,non-sql
+Please reboot your system and try again.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT price, name FROM users WHERE id = 'john@example.com';",sql
+Follow the yellow brick road.,non-sql
+Call me Ishmael.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+"INSERT INTO products (created_at, name, price) VALUES ('2024-01-01', '2024-01-01', 'john@example.com');",sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Welcome to the world of tomorrow!,non-sql
+SELECT COUNT(*) FROM users;,sql
+INSERT INTO users (id) VALUES ('1');,sql
+Congratulations! You've won a free vacation.,non-sql
+"INSERT INTO departments (created_at, name, department_id) VALUES ('john@example.com', '1', '2024-01-01');",sql
+SELECT COUNT(*) FROM categories;,sql
+"SELECT id, department_id, price FROM products WHERE name = '3';",sql
+Healthy eating leads to a healthy life.,non-sql
+INSERT INTO employees (created_at) VALUES ('3');,sql
+Error 404: Page not found.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+"SELECT id, created_at, name FROM products WHERE name = '1';",sql
+All that glitters is not gold.,non-sql
+Error 404: Page not found.,non-sql
+Call me Ishmael.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"SELECT created_at, price FROM products WHERE created_at = '99.99';",sql
+Healthy eating leads to a healthy life.,non-sql
+DELETE FROM employees WHERE price = 'john@example.com';,sql
+DELETE FROM users WHERE name = '99.99';,sql
+"INSERT INTO products (department_id, id) VALUES ('2024-01-01', '3');",sql
+SELECT COUNT(*) FROM departments;,sql
+Call me Ishmael.,non-sql
+UPDATE products SET created_at = 'john@example.com' WHERE created_at = 'Active';,sql
+DELETE FROM categories WHERE name = '99.99';,sql
+"SELECT name, email, id FROM categories ORDER BY created_at DESC;",sql
+Baking the perfect bread takes practice.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+DELETE FROM orders WHERE name = '99.99';,sql
+"Buy one, get one free! Limited time offer.",non-sql
+UPDATE categories SET price = '2024-01-01' WHERE price = 'Active';,sql
+Follow the yellow brick road.,non-sql
+SELECT * FROM orders;,sql
+Welcome to the world of tomorrow!,non-sql
+Access denied. Contact your administrator.,non-sql
+"SELECT name, price FROM orders ORDER BY price DESC;",sql
+Artificial intelligence is transforming industries.,non-sql
+Welcome to the world of tomorrow!,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT orders.id, employees.created_at FROM orders JOIN employees ON orders.id = employees.created_at;",sql
+"In a galaxy far, far away...",non-sql
+Please reboot your system and try again.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"SELECT created_at, email, name FROM categories WHERE price = '3';",sql
+"INSERT INTO departments (id, name, email) VALUES ('john@example.com', '1', '99.99');",sql
+"Once upon a time, there was a brave knight.",non-sql
+Call me Ishmael.,non-sql
+SELECT COUNT(*) FROM departments;,sql
+Upcoming events include a concert and a festival.,non-sql
+"SELECT employees.created_at, orders.id FROM employees JOIN orders ON employees.created_at = orders.id;",sql
+Upcoming events include a concert and a festival.,non-sql
+"To be, or not to be, that is the question.",non-sql
+Error 404: Page not found.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+Call me Ishmael.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+Call me Ishmael.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+All that glitters is not gold.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"Once upon a time, there was a brave knight.",non-sql
+"In a galaxy far, far away...",non-sql
+"SELECT id, department_id, created_at FROM categories ORDER BY name DESC;",sql
+SELECT * FROM products;,sql
+Error 404: Page not found.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+DELETE FROM categories WHERE department_id = '99.99';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+UPDATE employees SET created_at = '2024-01-01' WHERE created_at = 'Completed';,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"To be, or not to be, that is the question.",non-sql
+SELECT * FROM products;,sql
+"SELECT name, price FROM categories ORDER BY price DESC;",sql
+"Once upon a time, there was a brave knight.",non-sql
+The weather today is sunny with a chance of rain.,non-sql
+SELECT COUNT(*) FROM products;,sql
+Congratulations! You've won a free vacation.,non-sql
+Please reboot your system and try again.,non-sql
+UPDATE departments SET created_at = '1' WHERE created_at = 'Pending';,sql
+All that glitters is not gold.,non-sql
+Follow the yellow brick road.,non-sql
+INSERT INTO users (department_id) VALUES ('1');,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT * FROM employees;,sql
+Artificial intelligence is transforming industries.,non-sql
+"To be, or not to be, that is the question.",non-sql
+UPDATE orders SET name = '99.99' WHERE name = 'Admin';,sql
+SELECT * FROM categories;,sql
+"SELECT employees.department_id, employees.price FROM employees JOIN employees ON employees.department_id = employees.price;",sql
+"In a galaxy far, far away...",non-sql
+Please reboot your system and try again.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Access denied. Contact your administrator.,non-sql
+UPDATE categories SET email = 'john@example.com' WHERE email = 'Completed';,sql
+Error 404: Page not found.,non-sql
+Error 404: Page not found.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+UPDATE users SET email = '2024-01-01' WHERE email = 'Completed';,sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM products WHERE id = 'John Doe';,sql
+SELECT * FROM products;,sql
+Please reboot your system and try again.,non-sql
+INSERT INTO orders (created_at) VALUES ('1');,sql
+All that glitters is not gold.,non-sql
+Call me Ishmael.,non-sql
+All that glitters is not gold.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT * FROM orders;,sql
+"Buy one, get one free! Limited time offer.",non-sql
+DELETE FROM orders WHERE id = 'john@example.com';,sql
+SELECT COUNT(*) FROM employees;,sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"INSERT INTO categories (created_at, email) VALUES ('3', '1');",sql
+INSERT INTO categories (email) VALUES ('john@example.com');,sql
+"SELECT email, id FROM orders WHERE created_at = 'John Doe';",sql
+"SELECT id, created_at FROM categories ORDER BY id DESC;",sql
+"SELECT email, created_at FROM products ORDER BY id DESC;",sql
+SELECT * FROM users;,sql
+"Once upon a time, there was a brave knight.",non-sql
+The weather today is sunny with a chance of rain.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+"INSERT INTO categories (price, name) VALUES ('john@example.com', '1');",sql
+SELECT * FROM products;,sql
+Access denied. Contact your administrator.,non-sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM employees;,sql
+SELECT COUNT(*) FROM categories;,sql
+Healthy eating leads to a healthy life.,non-sql
+Baking the perfect bread takes practice.,non-sql
+All that glitters is not gold.,non-sql
+DELETE FROM orders WHERE id = 'John Doe';,sql
+"SELECT employees.name, products.id FROM employees JOIN products ON employees.name = products.id;",sql
+"SELECT price, email, id FROM categories WHERE created_at = '1';",sql
+Please reboot your system and try again.,non-sql
+"In a galaxy far, far away...",non-sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT name, id, created_at FROM employees ORDER BY price DESC;",sql
+"SELECT department_id, created_at, email FROM users ORDER BY name DESC;",sql
+"SELECT department_id, name, created_at FROM employees WHERE created_at = 'john@example.com';",sql
+"SELECT id, department_id, email FROM orders WHERE id = 'John Doe';",sql
+"SELECT categories.price, employees.department_id FROM categories JOIN employees ON categories.price = employees.department_id;",sql
+"SELECT name, id FROM orders WHERE created_at = '1';",sql
+"INSERT INTO categories (created_at, department_id) VALUES ('2024-01-01', '2024-01-01');",sql
+Welcome to the world of tomorrow!,non-sql
+SELECT * FROM employees;,sql
+All that glitters is not gold.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+SELECT price FROM orders ORDER BY department_id DESC;,sql
+DELETE FROM employees WHERE email = '1';,sql
+"INSERT INTO users (email, id, created_at) VALUES ('2024-01-01', '3', 'John Doe');",sql
+"SELECT id, name FROM orders WHERE email = '2024-01-01';",sql
+Baking the perfect bread takes practice.,non-sql
+SELECT * FROM orders;,sql
+INSERT INTO departments (id) VALUES ('2024-01-01');,sql
+The weather today is sunny with a chance of rain.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+UPDATE departments SET name = '2024-01-01' WHERE name = '1';,sql
+"Buy one, get one free! Limited time offer.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT * FROM products;,sql
+INSERT INTO categories (name) VALUES ('John Doe');,sql
+Upcoming events include a concert and a festival.,non-sql
+"SELECT created_at, name FROM users ORDER BY id DESC;",sql
+SELECT COUNT(*) FROM departments;,sql
+Learning Python is fun and rewarding.,non-sql
+"In a galaxy far, far away...",non-sql
+Welcome to the world of tomorrow!,non-sql
+UPDATE users SET email = 'john@example.com' WHERE email = 'Active';,sql
+UPDATE orders SET email = '2024-01-01' WHERE email = 'Pending';,sql
+DELETE FROM categories WHERE price = 'john@example.com';,sql
+Access denied. Contact your administrator.,non-sql
+SELECT COUNT(*) FROM users;,sql
+Congratulations! You've won a free vacation.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT categories.id, departments.created_at FROM categories JOIN departments ON categories.id = departments.created_at;",sql
+SELECT created_at FROM employees ORDER BY price DESC;,sql
+"SELECT departments.price, categories.price FROM departments JOIN categories ON departments.price = categories.price;",sql
+All that glitters is not gold.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+SELECT COUNT(*) FROM users;,sql
+Baking the perfect bread takes practice.,non-sql
+"Buy one, get one free! Limited time offer.",non-sql
+SELECT * FROM departments;,sql
+UPDATE products SET created_at = '99.99' WHERE created_at = 'Pending';,sql
+DELETE FROM users WHERE created_at = '3';,sql
+"INSERT INTO products (id, price) VALUES ('3', 'John Doe');",sql
+UPDATE products SET email = 'John Doe' WHERE email = 'Admin';,sql
+Please reboot your system and try again.,non-sql
+"SELECT name, created_at, price FROM categories WHERE email = 'John Doe';",sql
+DELETE FROM users WHERE name = '1';,sql
+DELETE FROM users WHERE created_at = 'John Doe';,sql
+"SELECT department_id, email, name FROM employees ORDER BY id DESC;",sql
+Access denied. Contact your administrator.,non-sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM orders;,sql
+INSERT INTO departments (created_at) VALUES ('3');,sql
+"In a galaxy far, far away...",non-sql
+Upcoming events include a concert and a festival.,non-sql
+SELECT * FROM departments;,sql
+SELECT COUNT(*) FROM products;,sql
+Follow the yellow brick road.,non-sql
+"SELECT employees.id, users.price FROM employees JOIN users ON employees.id = users.price;",sql
+UPDATE employees SET created_at = '1' WHERE created_at = 'Pending';,sql
+"SELECT email, name FROM categories WHERE name = 'john@example.com';",sql
+Artificial intelligence is transforming industries.,non-sql
+Access denied. Contact your administrator.,non-sql
+Error 404: Page not found.,non-sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT departments.id, employees.email FROM departments JOIN employees ON departments.id = employees.email;",sql
+Please reboot your system and try again.,non-sql
+Call me Ishmael.,non-sql
+Welcome to the world of tomorrow!,non-sql
+Follow the yellow brick road.,non-sql
+SELECT created_at FROM categories ORDER BY created_at DESC;,sql
+SELECT COUNT(*) FROM orders;,sql
+"SELECT id, name FROM employees ORDER BY price DESC;",sql
+"INSERT INTO departments (name, department_id) VALUES ('john@example.com', '1');",sql
+"To be, or not to be, that is the question.",non-sql
+"INSERT INTO categories (email, created_at) VALUES ('3', '99.99');",sql
+The weather today is sunny with a chance of rain.,non-sql
+"SELECT email, created_at, name FROM orders ORDER BY name DESC;",sql
+"To be, or not to be, that is the question.",non-sql
+Error 404: Page not found.,non-sql
+All that glitters is not gold.,non-sql
+DELETE FROM departments WHERE created_at = 'John Doe';,sql
+The weather today is sunny with a chance of rain.,non-sql
+"SELECT name, email FROM employees ORDER BY price DESC;",sql
+"SELECT email, name, price FROM users WHERE department_id = '3';",sql
+Please reboot your system and try again.,non-sql
+"SELECT name, created_at, price FROM users WHERE email = '2024-01-01';",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"SELECT users.created_at, products.email FROM users JOIN products ON users.created_at = products.email;",sql
+Healthy eating leads to a healthy life.,non-sql
+"SELECT users.name, employees.id FROM users JOIN employees ON users.name = employees.id;",sql
+"To be, or not to be, that is the question.",non-sql
+Congratulations! You've won a free vacation.,non-sql
+Baking the perfect bread takes practice.,non-sql
+"SELECT price, name, email FROM orders ORDER BY email DESC;",sql
+Welcome to the world of tomorrow!,non-sql
+SELECT COUNT(*) FROM users;,sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Healthy eating leads to a healthy life.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+UPDATE employees SET price = '99.99' WHERE price = 'Pending';,sql
+SELECT department_id FROM users ORDER BY price DESC;,sql
+Access denied. Contact your administrator.,non-sql
+SELECT email FROM departments ORDER BY id DESC;,sql
+SELECT COUNT(*) FROM users;,sql
+"SELECT price, id FROM employees ORDER BY id DESC;",sql
+SELECT COUNT(*) FROM categories;,sql
+Upcoming events include a concert and a festival.,non-sql
+SELECT * FROM employees;,sql
+Welcome to the world of tomorrow!,non-sql
+DELETE FROM employees WHERE department_id = '3';,sql
+Please reboot your system and try again.,non-sql
+Access denied. Contact your administrator.,non-sql
+DELETE FROM orders WHERE created_at = 'john@example.com';,sql
+The weather today is sunny with a chance of rain.,non-sql
+Follow the yellow brick road.,non-sql
+"SELECT id, email, created_at FROM orders ORDER BY created_at DESC;",sql
+All that glitters is not gold.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+SELECT COUNT(*) FROM departments;,sql
+"In a galaxy far, far away...",non-sql
+DELETE FROM departments WHERE price = '2024-01-01';,sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT id, email FROM departments WHERE department_id = '1';",sql
+"SELECT categories.created_at, categories.price FROM categories JOIN categories ON categories.created_at = categories.price;",sql
+"INSERT INTO orders (id, department_id, price) VALUES ('3', '99.99', '2024-01-01');",sql
+DELETE FROM employees WHERE department_id = 'John Doe';,sql
+DELETE FROM categories WHERE email = '2024-01-01';,sql
+"SELECT id, name FROM categories WHERE id = '2024-01-01';",sql
+The weather today is sunny with a chance of rain.,non-sql
+"In a galaxy far, far away...",non-sql
+Welcome to the world of tomorrow!,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Follow the yellow brick road.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"INSERT INTO orders (created_at, id) VALUES ('2024-01-01', '99.99');",sql
+SELECT COUNT(*) FROM users;,sql
+INSERT INTO departments (department_id) VALUES ('1');,sql
+"Buy one, get one free! Limited time offer.",non-sql
+"SELECT email, name FROM categories ORDER BY department_id DESC;",sql
+SELECT * FROM employees;,sql
+SELECT COUNT(*) FROM products;,sql
+"In a galaxy far, far away...",non-sql
+DELETE FROM products WHERE name = '1';,sql
+UPDATE departments SET price = 'john@example.com' WHERE price = 'Pending';,sql
+Error 404: Page not found.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Call me Ishmael.,non-sql
+Upcoming events include a concert and a festival.,non-sql
+DELETE FROM departments WHERE created_at = '99.99';,sql
+"SELECT users.department_id, users.created_at FROM users JOIN users ON users.department_id = users.created_at;",sql
+Learning Python is fun and rewarding.,non-sql
+SELECT * FROM users;,sql
+"SELECT users.id, orders.department_id FROM users JOIN orders ON users.id = orders.department_id;",sql
+"SELECT products.price, users.price FROM products JOIN users ON products.price = users.price;",sql
+The quick brown fox jumps over the lazy dog.,non-sql
+"INSERT INTO orders (email, name, department_id) VALUES ('1', '2024-01-01', 'John Doe');",sql
+Access denied. Contact your administrator.,non-sql
+Follow the yellow brick road.,non-sql
+"SELECT employees.price, employees.created_at FROM employees JOIN employees ON employees.price = employees.created_at;",sql
+Error 404: Page not found.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"In a galaxy far, far away...",non-sql
+SELECT created_at FROM users WHERE department_id = '2024-01-01';,sql
+Upcoming events include a concert and a festival.,non-sql
+SELECT * FROM employees;,sql
+DELETE FROM orders WHERE email = '99.99';,sql
+SELECT * FROM departments;,sql
+Upcoming events include a concert and a festival.,non-sql
+UPDATE orders SET price = 'John Doe' WHERE price = 'Pending';,sql
+SELECT COUNT(*) FROM products;,sql
+"SELECT products.email, departments.department_id FROM products JOIN departments ON products.email = departments.department_id;",sql
+"In a galaxy far, far away...",non-sql
+Access denied. Contact your administrator.,non-sql
+"Once upon a time, there was a brave knight.",non-sql
+Learning Python is fun and rewarding.,non-sql
+Please reboot your system and try again.,non-sql
+"In a galaxy far, far away...",non-sql
+"To be, or not to be, that is the question.",non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+DELETE FROM orders WHERE price = '1';,sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+INSERT INTO departments (name) VALUES ('2024-01-01');,sql
+Artificial intelligence is transforming industries.,non-sql
+Error 404: Page not found.,non-sql
+"SELECT categories.created_at, categories.price FROM categories JOIN categories ON categories.created_at = categories.price;",sql
+"To be, or not to be, that is the question.",non-sql
+Healthy eating leads to a healthy life.,non-sql
+Error 404: Page not found.,non-sql
+"SELECT employees.price, employees.department_id FROM employees JOIN employees ON employees.price = employees.department_id;",sql
+Congratulations! You've won a free vacation.,non-sql
+"INSERT INTO users (department_id, created_at) VALUES ('john@example.com', 'John Doe');",sql
+Error 404: Page not found.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+Healthy eating leads to a healthy life.,non-sql
+"INSERT INTO employees (price, department_id) VALUES ('3', '1');",sql
+SELECT COUNT(*) FROM orders;,sql
+UPDATE users SET created_at = '99.99' WHERE created_at = 'Completed';,sql
+Baking the perfect bread takes practice.,non-sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT id, name, department_id FROM users WHERE name = '1';",sql
+"SELECT id, department_id, created_at FROM orders ORDER BY price DESC;",sql
+Follow the yellow brick road.,non-sql
+"To be, or not to be, that is the question.",non-sql
+"SELECT created_at, price, name FROM departments ORDER BY name DESC;",sql
+Learning Python is fun and rewarding.,non-sql
+Call me Ishmael.,non-sql
+SELECT COUNT(*) FROM orders;,sql
+The weather today is sunny with a chance of rain.,non-sql
+"INSERT INTO employees (department_id, created_at, price) VALUES ('john@example.com', 'john@example.com', '3');",sql
+SELECT department_id FROM users WHERE email = '2024-01-01';,sql
+Learning Python is fun and rewarding.,non-sql
+Please reboot your system and try again.,non-sql
+Artificial intelligence is transforming industries.,non-sql
+"In a galaxy far, far away...",non-sql
+"SELECT department_id, name, price FROM categories WHERE id = 'john@example.com';",sql
+Artificial intelligence is transforming industries.,non-sql
+"In a galaxy far, far away...",non-sql
+DELETE FROM products WHERE email = '2024-01-01';,sql
+The weather today is sunny with a chance of rain.,non-sql
+"INSERT INTO users (id, price) VALUES ('99.99', 'john@example.com');",sql
+Access denied. Contact your administrator.,non-sql
+SELECT COUNT(*) FROM products;,sql
+"SELECT users.created_at, orders.email FROM users JOIN orders ON users.created_at = orders.email;",sql
+SELECT * FROM departments;,sql
+UPDATE employees SET name = '2024-01-01' WHERE name = 'HR';,sql
+SELECT COUNT(*) FROM departments;,sql
+Artificial intelligence is transforming industries.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+Error 404: Page not found.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT products.price, users.id FROM products JOIN users ON products.price = users.id;",sql
+UPDATE products SET name = '1' WHERE name = 'Pending';,sql
+"SELECT orders.department_id, orders.id FROM orders JOIN orders ON orders.department_id = orders.id;",sql
+SELECT COUNT(*) FROM products;,sql
+"SELECT orders.department_id, orders.created_at FROM orders JOIN orders ON orders.department_id = orders.created_at;",sql
+"To be, or not to be, that is the question.",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Learning Python is fun and rewarding.,non-sql
+Call me Ishmael.,non-sql
+Follow the yellow brick road.,non-sql
+"SELECT users.department_id, departments.email FROM users JOIN departments ON users.department_id = departments.email;",sql
+DELETE FROM employees WHERE price = '1';,sql
+SELECT * FROM orders;,sql
+Baking the perfect bread takes practice.,non-sql
+SELECT COUNT(*) FROM orders;,sql
+UPDATE orders SET id = 'john@example.com' WHERE id = 'Admin';,sql
+DELETE FROM departments WHERE email = '2024-01-01';,sql
+UPDATE users SET email = '99.99' WHERE email = 'Active';,sql
+"In a galaxy far, far away...",non-sql
+"To be, or not to be, that is the question.",non-sql
+Follow the yellow brick road.,non-sql
+Welcome to the world of tomorrow!,non-sql
+"SELECT users.created_at, users.name FROM users JOIN users ON users.created_at = users.name;",sql
+"In a galaxy far, far away...",non-sql
+The quick brown fox jumps over the lazy dog.,non-sql
+Follow the yellow brick road.,non-sql
+All that glitters is not gold.,non-sql
+"SELECT email, id, created_at FROM departments WHERE created_at = '3';",sql
+Healthy eating leads to a healthy life.,non-sql
+The mitochondrion is the powerhouse of the cell.,non-sql
+"SELECT name, id, price FROM departments ORDER BY department_id DESC;",sql
+"INSERT INTO categories (email, id, name) VALUES ('99.99', 'John Doe', '1');",sql
+UPDATE departments SET name = 'john@example.com' WHERE name = 'Admin';,sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT name, created_at FROM departments ORDER BY id DESC;",sql
+DELETE FROM departments WHERE name = 'john@example.com';,sql
+"Buy one, get one free! Limited time offer.",non-sql
+DELETE FROM users WHERE price = 'john@example.com';,sql
+Call me Ishmael.,non-sql
+"INSERT INTO users (price, department_id, email) VALUES ('99.99', '99.99', '99.99');",sql
+SELECT id FROM orders WHERE id = 'john@example.com';,sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT departments.name, categories.name FROM departments JOIN categories ON departments.name = categories.name;",sql
+"SELECT users.id, employees.email FROM users JOIN employees ON users.id = employees.email;",sql
+SELECT COUNT(*) FROM departments;,sql
+The weather today is sunny with a chance of rain.,non-sql
+INSERT INTO employees (email) VALUES ('3');,sql
+Learning Python is fun and rewarding.,non-sql
+"SELECT created_at, department_id, id FROM products WHERE name = '3';",sql
+"SELECT orders.name, products.email FROM orders JOIN products ON orders.name = products.email;",sql
+Access denied. Contact your administrator.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT categories.department_id, users.department_id FROM categories JOIN users ON categories.department_id = users.department_id;",sql
+Congratulations! You've won a free vacation.,non-sql
+SELECT email FROM products ORDER BY id DESC;,sql
+Learning Python is fun and rewarding.,non-sql
+DELETE FROM departments WHERE name = '3';,sql
+Learning Python is fun and rewarding.,non-sql
+DELETE FROM categories WHERE department_id = 'john@example.com';,sql
+Welcome to the world of tomorrow!,non-sql
+Healthy eating leads to a healthy life.,non-sql
+Congratulations! You've won a free vacation.,non-sql
+"SELECT created_at, name FROM products ORDER BY department_id DESC;",sql
+Healthy eating leads to a healthy life.,non-sql
