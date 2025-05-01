@@ -3,6 +3,8 @@ I've always wanted to try "brain surgery" on LLMs. The idea is to leverage the p
 
 To explore these ideas, I tried training an autoencoder while observing the LLM's neurons during inference through multiple runs. The LLM's features are polysemantic, so the plan is to train with a labeled dataset and observe which neurons are firing. For instance, in this case, we want to find the "Harry Potter" neurons in the network and boost those to shift its personality or focus. The autoencoder is used to identify these features, and then we amplify them to observe the outcome. This concept was inspired by Google's Neuronpedia.
 
+The second experiment involves boosting of SQL neurons 
+
 # Approach
 
 - Train an Autoencoder: Learn a compressed representation of LLM activations.
@@ -11,6 +13,10 @@ To explore these ideas, I tried training an autoencoder while observing the LLM'
 - Evaluate token probability shifts
 
 # Results
+Lets explore the SQL-Boosting, where we train on SQL vs Non-SQL text, observe the inference runs, train an auto-encoder, boost the top 20 features and observe the effect in shift of distribution.
+
+![SQL Boosting](results/sql_results.png)
+
 After training the auto-encoder, extracting its features and boosting them, we observe the following.
 - A slightly boosted confidence in token sampling probabilities
 - Improved probability of sampling Harry Potter tokens
